@@ -7,8 +7,8 @@
 #include <cstdio>
 using namespace std;
 int main(){
-    freopen("in" , "r" , stdin);
-    freopen("out" , "w" , stdout);
+//    freopen("in" , "r" , stdin);
+//    freopen("out" , "w" , stdout);
     simulator s;
     s.read();
     //cout << 12222222;
