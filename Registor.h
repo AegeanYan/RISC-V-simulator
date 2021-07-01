@@ -5,7 +5,7 @@
 #ifndef RISC_V_SIMULATOR_REGISTOR_H
 #define RISC_V_SIMULATOR_REGISTOR_H
 #include <iostream>
-
+#include <cstring>
 class Registor {
 public:
     int reg[32];

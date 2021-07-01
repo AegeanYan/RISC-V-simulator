@@ -7,6 +7,7 @@
 
 #include <string>
 #include <sstream>
+#include <cstring>
 class Memory {
 public:
     //int *mem;
